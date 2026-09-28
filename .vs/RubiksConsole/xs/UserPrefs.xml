@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{202793F8-F4CE-45A2-ACC5-34C3EEE5A116}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CharacterCanvas.cs">
+    <Files>
+      <File FileName="Program.cs" Line="201" Column="20" />
+      <File FileName="ShapeManager.cs" Line="65" Column="10" />
+      <File FileName="CharacterCanvas.cs" Line="184" Column="62" />
+      <File FileName="Matrix.cs" Line="234" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RubiksConsole" expanded="True">
+            <Node name="RubiksConsole" expanded="True">
+              <Node name="CharacterCanvas.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RubiksConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
